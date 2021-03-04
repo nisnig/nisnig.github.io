@@ -22,4 +22,4 @@ Some of the other projects I have worked on are:
 
 *Note: Due to the size of the jupyter notebooks, you may be required to download them to view.*
 
-Please feel free to connect with me through [Linkedin](https://www.linkedin.com/in/nisargnigam/). Thank you for visiting my Github Portfolio!
+Please feel free to connect with me through [Linkedin](https://www.linkedin.com/in/nisargnigam/). Thanks for visiting my Github Portfolio!
