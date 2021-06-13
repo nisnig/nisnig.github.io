@@ -11,14 +11,17 @@ I am an aspiring Data Scientist, currently pursuing my Master of Science in Data
 |<img src="https://user-images.githubusercontent.com/44531064/109926775-4e2c5e00-7cfe-11eb-9d64-e5dbde754e46.png" width=500> | **[Loan Customer Segmentation and Price Optimization](https://github.com/nisnig/Price-Optimization-Model-for-E-loans)**<br>The project finds the optimum rates for multiple customer segments of a E-Car Loan company. I used non-linear programming to find the efficient frontier for each segment based on the risk of default, competitor rates, duration of loan, etc. to maximize the overall profit, resulting in a 100% increase.|
 
 Some of the other projects I have worked on are:
-1. Natural Language Processing - [Homophily Analysis of Tweets in the US 2020 Elections.](https://github.com/nisnig/Homophily-Analysis-of-Tweets)
-2. Image Processing - [American Sign Language (alphabets only) Live recognition using CNN.](https://github.com/nisnig/ASL-Recognition)
-3. Stock Prediction - [Bitcoin Behaviour Prediction using GDELT news articles w/ Dask & S3](https://github.com/nisnig/Bitcoin-Fluctuation-Prediction-with-GDELT-News)
-4. Stock Prediction - [European Stock Behavior Prediction w/ pyspark & AWS EMR.](https://github.com/nisnig/Eurostock-Prediction)
-5. Data Visualization - [Air Quality Visualization in China (Pre-During the Pandemic) w/ Dask, AWS EC2, & S3.](https://github.com/nisnig/Air-Quality-trend-visualization)
-6. Recommender System - [Recommender System for LastFM music.](https://github.com/nisnig/Recommender-system-LastFM)
-7. Simple ML - [Indicators of Fake Job Posts.](https://github.com/May-nerd/ml1-final-project)
-8. Information Retrieval - [A modified search engine for bills in the Philippines Congress Website.](https://github.com/May-nerd/dmw-ml-final-project)
+1. Geospatial analysis - [Metro Manila Road Networks and their proximity to Emergency services](https://github.com/nisnig/Manila-Roads-Geospatial-Analysis)
+2. Network Analysis - [Philippine Senators Collaboration Network](https://github.com/nisnig/Philippine-Senator-Collaboration-Network)
+3. Time Series Analysis - [M5 Time Series Prediction](https://github.com/nisnig/M5-Time-series-predictions)
+4. Natural Language Processing - [Homophily Analysis of Tweets in the US 2020 Elections.](https://github.com/nisnig/Homophily-Analysis-of-Tweets)
+5. Image Processing - [American Sign Language (alphabets only) Live recognition using CNN.](https://github.com/nisnig/ASL-Recognition)
+6. Stock Prediction - [Bitcoin Behaviour Prediction using GDELT news articles w/ Dask & S3](https://github.com/nisnig/Bitcoin-Fluctuation-Prediction-with-GDELT-News)
+7. Stock Prediction - [European Stock Behavior Prediction w/ pyspark & AWS EMR.](https://github.com/nisnig/Eurostock-Prediction)
+8. Data Visualization - [Air Quality Visualization in China (Pre-During the Pandemic) w/ Dask, AWS EC2, & S3.](https://github.com/nisnig/Air-Quality-trend-visualization)
+9. Recommender System - [Recommender System for LastFM music.](https://github.com/nisnig/Recommender-system-LastFM)
+10. Simple ML - [Indicators of Fake Job Posts.](https://github.com/May-nerd/ml1-final-project)
+11. Information Retrieval - [A modified search engine for bills in the Philippines Congress Website.](https://github.com/May-nerd/dmw-ml-final-project)
 
 *Note: Due to the size of the jupyter notebooks, you may be required to download them to view.*
 
