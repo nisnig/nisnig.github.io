@@ -1,4 +1,7 @@
-## Welcome to my Github Portfolio
+---
+title: "Master's Project"
+---
+
 
 This page collects all the projects I worked on during my MSc Data Science at the Asian Institute of Management, Makati, Philippines.
 
