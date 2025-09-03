@@ -1,1 +1,3 @@
+[Google Scholar](https://scholar.google.com/citations?user=4Y5dQtEAAAAJ&hl=en)
 
+I'm currently working on a few research projects...
