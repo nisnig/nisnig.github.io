@@ -3,7 +3,7 @@ theme: minima
 
 header_pages:
   - index.md
-  - masters-project.md
+  - masters-projects.md
   - research.md
   - resume.md
 
