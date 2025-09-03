@@ -1,7 +1,12 @@
 title: "Nisarg Nigam Portfolio"
-theme: jekyll-theme-cayman   # you can try: minimal, cayman, slate, modernist
+theme: minima
+
 header_pages:
   - index.md
   - masters-project.md
   - research.md
   - resume.md
+
+# Make sure assets folder is included in the site build
+include:
+  - assets
