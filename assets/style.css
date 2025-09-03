@@ -17,7 +17,7 @@ body {
   margin: 2rem auto;
 }
 
-/* Style links */
+/* Style general links */
 a {
   color: #9ad3ff;
   font-weight: bold;
@@ -28,8 +28,21 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Navbar background */
 nav {
   background-color: #c8102e;  /* red header background */
   padding: 0.5rem 1rem;
   border-radius: 8px;         /* optional rounded corners */
+}
+
+/* Navbar links text color */
+nav a {
+  color: white;               /* ensures the nav text is visible over red */
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #ffdddd;             /* lighter red on hover */
+  text-decoration: underline;
 }
