@@ -17,7 +17,7 @@ body {
   margin: 2rem auto;
 }
 
-/* Style general links */
+/* General links */
 a {
   color: #9ad3ff;
   font-weight: bold;
@@ -28,21 +28,30 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Navbar background */
-nav {
-  background-color: #c8102e;  /* red header background */
-  padding: 0.5rem 1rem;
-  border-radius: 8px;         /* optional rounded corners */
-}
-
-/* Navbar links text color */
+/* Navbar links */
 nav a {
-  color: white;               /* ensures the nav text is visible over red */
+  color: white;
   font-weight: bold;
   text-decoration: none;
 }
 
 nav a:hover {
-  color: #ffdddd;             /* lighter red on hover */
+  color: #ffdddd;
   text-decoration: underline;
+}
+
+/* NAVBAR BACKGROUNDS */
+
+/* Semi-transparent red for landing page only */
+body.home nav {
+  background-color: rgba(200,16,46,0.8); /* #c8102e at 80% opacity */
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+}
+
+/* Solid red for all other pages */
+body:not(.home) nav {
+  background-color: #c8102e;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
 }
