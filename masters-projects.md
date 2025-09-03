@@ -1,6 +1,6 @@
 ## Welcome to my Github Portfolio
 
-I am a Data Scientist. I recently graduated MSc. Data Science from the Asian Institute of Management, Makati, Philippines. Following are the projects I worked on during my program. 
+I am a Data Scientist. I graduated MSc. Data Science from the Asian Institute of Management, Makati, Philippines in 2021. Following are the projects I worked on during my program. 
 
 ### Project Highlights
 
