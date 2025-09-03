@@ -1,5 +1,5 @@
 title: "Nisarg Nigam Portfolio"
-theme: minima   # you can try: minimal, cayman, slate, modernist
+theme: jekyll-theme-cayman   # you can try: minimal, cayman, slate, modernist
 nav:
   - title: "Home"
     url: /
