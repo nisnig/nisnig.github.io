@@ -1,8 +1,14 @@
+## Welcome to my page!
+
 Hi, I’m **Nisarg Nigam** - a 2nd year PhD student at the University of Houston. I'm pursuing Management Information Systems.
+
+
+
+
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
 | Project | Description |
 |---------|-------------|
@@ -10,7 +16,7 @@ Hi, I’m **Nisarg Nigam** - a 2nd year PhD student at the University of Houston
 | [Masked Face Recognition](./masters-project) | Extended FaceNet & MTCNN for reliable recognition with and without masks. |
 | [Loan Price Optimization](./masters-project) | Designed optimization model for loan pricing, boosting profit by 100%. |
 
-👉 See the full list in [Masters Project](./masters-project).
+See the full list in [Masters Project](./masters-project).
 
 ---
 
@@ -18,4 +24,3 @@ Hi, I’m **Nisarg Nigam** - a 2nd year PhD student at the University of Houston
 - [Research](./research)  
 - [Resume](./resume)  
 - [LinkedIn](https://www.linkedin.com/in/nisargnigam/)  
-- [GitHub Projects](https://github.com/nisnig)  
