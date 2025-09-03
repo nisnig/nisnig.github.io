@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+title: "Nisarg Nigam Portfolio"
+theme: minima   # you can try: minimal, cayman, slate, modernist
+nav:
+  - title: "Home"
+    url: /
+  - title: "Masters Project"
+    url: /masters-project
+  - title: "Research"
+    url: /research
+  - title: "Resume"
+    url: /resume
